@@ -1,1 +1,1 @@
-# devops_course_first_repo
+helo this is repo for devops practice
